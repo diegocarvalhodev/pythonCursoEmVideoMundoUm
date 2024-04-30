@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b60c7cb-3f33-4910-a2b1-fd5527c98e63" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercicios/ex006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aulas/aula08a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex016.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex017.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex018.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex019.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex020.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercicios/ex021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,20 +41,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.aula06a.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07g.executor&quot;: &quot;Run&quot;,
-    &quot;Python.aula07k.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Meu Drive/SYN Curso em Vídeo/pythonCursoEmVideoMundoUm&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.aula06a.executor": "Run",
+    "Python.aula07g.executor": "Run",
+    "Python.aula07k.executor": "Run",
+    "Python.aula08a.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "G:/Meu Drive/SYN Curso em Vídeo/pythonCursoEmVideoMundoUm"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="ex013" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonCursoEmVideoMundoUm" />
